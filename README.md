@@ -1,2 +1,2 @@
 # Duck-Shot
-An Artificial Intelligence snake game written in Python using the PyGame library
+A game written in Python using the PyGame library
